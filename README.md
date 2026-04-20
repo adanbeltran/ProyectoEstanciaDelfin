@@ -1,6 +1,5 @@
-# Repositorio de apoyo técnico
+# Repositorio de apoyo técnico Proyecto Estancia Investigación Delfín- Diseño y validación inicial de una startup de desarrollo de software apoyada en agentes de IA para la construcción de MVPs empresariales
 
-Este repositorio en Git se usa únicamente como apoyo técnico del proyecto de investigación.
 
 ## Documentación general del proyecto de investigación
 La documentación formal, avances, evidencias académicas y productos del proyecto se gestionan en SharePoint:
