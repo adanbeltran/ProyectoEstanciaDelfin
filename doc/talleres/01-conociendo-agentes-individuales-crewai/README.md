@@ -296,61 +296,85 @@ scr/retos/taller1/
 
 ## 5. Evidencias a mostrar
 
-Debe presentar las siguientes evidencias:
+Como evidencia del taller, no debe redactar un ensayo ni una reflexión extensa. Debe construir una **matriz de revisión bibliográfica** alineada con el objetivo de la propuesta: identificar fundamentos para el uso de agentes de IA, enfoques guiados por especificación y frameworks aplicables a una startup que construye MVPs empresariales.
 
-### 1. Ejecución del código base
-Capturas o salidas de consola donde se vea la ejecución de los scripts originales.
+### 1. Matriz sobre agentes de IA en desarrollo de software
+Buscar literatura sobre uso de agentes de IA en análisis, diseño, construcción, pruebas, documentación y coordinación de tareas en desarrollo de software.
 
-### 2. Archivo de contexto del proyecto
-Debe entregar el archivo:
+**Palabras clave sugeridas:**
+- `AI agents software development`
+- `LLM agents software engineering`
+- `intelligent agents software lifecycle`
+- `multi-agent software engineering`
 
-```text
-scr/retos/taller1/entradas/contexto_mvp.html
-```
+**Bases de datos sugeridas:**
+- Scopus
+- Web of Science
+- IEEE Xplore
+- ACM Digital Library
 
-### 3. Código refactorizado
-Debe entregar los agentes modificados para trabajar con lectura del archivo HTML de contexto.
+---
 
-### 4. Nuevos agentes creados
-Debe entregar los agentes:
+### 2. Matriz sobre enfoques spec-driven o guiados por especificación
+Buscar literatura sobre desarrollo guiado por requerimientos, especificaciones estructuradas, artefactos intermedios y generación de soluciones a partir de entradas formales o semiformales.
 
-- `agente_scrum.py`
-- `agente_scrum_master.py`
-- `agente_developer.py`
-- `agente_product_owner.py`
+**Palabras clave sugeridas:**
+- `spec-driven development`
+- `requirements-driven development`
+- `specification-driven software development`
+- `software generation from specifications`
 
-ubicados en:
+**Bases de datos sugeridas:**
+- Scopus
+- IEEE Xplore
+- ACM Digital Library
+- ScienceDirect
 
-```text
-scr/retos/taller1/
-```
+---
 
-### 5. Resultados generados
-Debe mostrar las salidas producidas por cada agente, por ejemplo:
+### 3. Matriz sobre frameworks y ecosistemas de agentes especializados
+Buscar trabajos sobre frameworks, arquitecturas y plataformas para construir agentes especializados, coordinación por roles, uso de herramientas y flujos multiagente.
 
-- `.txt`
-- `.md`
-- `.html`
-- `.css`
-- `.puml`
+**Palabras clave sugeridas:**
+- `AI agent frameworks`
+- `multi-agent orchestration frameworks`
+- `tool-using AI agents`
+- `specialized AI agents for technical workflows`
+- `agent-based automation platforms`
 
-preferiblemente organizadas en:
+**Bases de datos sugeridas:**
+- Scopus
+- IEEE Xplore
+- ACM Digital Library
+- arXiv
+- Google Scholar
 
-```text
-scr/retos/taller1/salidas/
-```
+---
 
-### 6. Análisis técnico
-Debe incluir un archivo breve de análisis donde explique:
+### 4. Matriz comparativa enfocada en el objetivo de la propuesta
+La matriz debe permitir comparar cada trabajo encontrado con criterios mínimos como:
 
-- qué cambios realizó;
-- qué información dejó de estar fija en los prompts;
-- cómo reutilizó el archivo HTML de contexto;
-- qué agente produjo mejores resultados;
-- qué limitaciones encontró.
+- problema abordado;
+- contexto de aplicación;
+- aporte principal;
+- relación con startups o MVPs;
+- uso de agentes;
+- uso de especificaciones o requerimientos estructurados;
+- ventajas;
+- limitaciones;
+- posible aporte al proyecto de investigación.
 
-El análisis debe publicarse en:
+---
 
-```text
-scr/retos/taller1/analisis_resultados.md
+### 5. Entrega de evidencias
+Debe entregar únicamente:
+
+- los **artículos descargados** en la carpeta institucional de bibliografía:  
+  [12-BIBLIOGRAFIA](https://uniempresarial-my.sharepoint.com/my?id=%2Fpersonal%2Fabeltran%5Funiempresarial%5Fedu%5Fco%2FDocuments%2FEstancia%2DInvestigacion%2DDelfin%2F12%2DBIBLIOGRAFIA&sortField=LinkFilename&isAscending=true&viewid=19cfd5e2%2D40a2%2D4a7b%2Db345%2Df916eae88c57)
+
+- la **matriz de revisión bibliográfica** en un archivo Word dentro de:  
+  [04-REVISION FRAMEWORKS](https://uniempresarial-my.sharepoint.com/my?id=%2Fpersonal%2Fabeltran%5Funiempresarial%5Fedu%5Fco%2FDocuments%2FEstancia%2DInvestigacion%2DDelfin%2F04%2DREVISION%20FRAMEWORKS&sortField=LinkFilename&isAscending=true&viewid=19cfd5e2%2D40a2%2D4a7b%2Db345%2Df916eae88c57)
+
+**Buena práctica sugerida para la revisión:**
+priorizar artículos recientes (ultimos 5 años maximo) , usar combinaciones de palabras clave, registrar criterios de inclusión/exclusión y comparar estudios en una misma matriz en lugar de resumirlos por separado.
 ```
