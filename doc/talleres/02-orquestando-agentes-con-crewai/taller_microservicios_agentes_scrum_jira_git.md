@@ -412,6 +412,8 @@ REDIS_URL=redis://localhost:6379/0
 # PARTE B. CONSTRUCCIÓN DEL BACKEND ORIENTADO A MICROSERVICIOS
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/251ce544-8a4a-459c-9f5e-32d4c5d38d5c" />
+
 
 ## 4. Fase 2: Diseño de microservicios
 
