@@ -32,6 +32,9 @@ La plataforma debe ser construida como un conjunto de microservicios. El orquest
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b7db955-b207-4489-9878-588e9d66fac0" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b185d05b-583f-42cc-98a9-179c4d544c17" />
+
+
 
 
 
