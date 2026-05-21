@@ -1,7 +1,8 @@
-# Taller 1
-# ScrumDev AI — Configuración Inicial e Integraciones
+# Taller 1- Configuración Inicial e Integraciones
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c437f067-82f6-47cc-a1ef-8051f76b6382" />
+
 
 # FASE 1. PREPARACIÓN DEL ENTORNO BASE
 
